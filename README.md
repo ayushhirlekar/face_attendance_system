@@ -109,9 +109,6 @@ Ayush,14:33-25
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots or screen recordings here to enhance your repo.)*
 
 ---
 
